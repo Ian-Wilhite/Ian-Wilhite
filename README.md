@@ -1,8 +1,9 @@
 # 💫 About Me:
-👋 Howdy! I'm Ian Wilhite, a mechanical engineering undergrad at Texas A&M University, on an quest to uncover the wonders of mechanical design and robotics controls. My adventures have brought me to many incredible places, from research under some of the brightest minds I've had the privelige to work with, to building pneumatic robots for 'life cycle trampoline testing' -- and yes I know exactly how funny that phrase is. I am incredibly passionate about projects where I have the opportunity to learn something new, and as I'm now discovering, there seems to be an abundance of those opportunities. If you like some of my work or just want to learn more, feel free to shoot me a dm!
-
+👋 Howdy! I'm Ian Wilhite, a mechanical engineering undergrad at Texas A&M University, on an quest to uncover the wonders of mechanical design and robotics controls. My adventures have brought me to many incredible places, from research under some of the brightest minds I've met, to building pneumatic robots for 'life cycle trampoline testing' -- and yes I know exactly how funny that phrase is. I am incredibly passionate about projects where I have the opportunity to learn something new, and as I'm now discovering, there seems to be an abundance of those opportunities. If you like some of my work or just want to learn more, feel free to shoot me a dm!
+<!--
 # 🌿 Outside of work:
 🍂 I love the outdoors, backpacking, and taking every chance I get to find my way back to the mountains. There's something incredibly humbling about standing at 12,000 ft and looking back on all the miles you had to cover to make it up. Somehow it makes every step feel like it mattered and every pound feel a little lighter. 
+-->
 
 🚀 What Keeps Me Busy:
 - 🛠️ Designing and building (troubleshooting) robotics projects to create something new
