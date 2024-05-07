@@ -40,7 +40,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/en._.ig) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ian-wilhite) 
 [![Email](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ian.wilhite0@gmail.com) 
-[![GitHub](https://img.shields.io/github/followers/Ian-Wilhite?style=social&label=Follow)](https://github.com/Ian-Wilhite)
+<!--[![GitHub](https://img.shields.io/github/followers/Ian-Wilhite?style=social&label=Follow)](https://github.com/Ian-Wilhite)-->
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-wilhite&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
