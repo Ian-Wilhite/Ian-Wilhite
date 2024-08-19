@@ -1,19 +1,27 @@
 ## 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=600&height=35&lines=Welcome+to+my+portfolio!;I+am+a+mechanical+engineering+student+interested+in+robotics!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=600&height=35&lines=Welcome+to+my+portfolio!;I+am+a+Robitcs+engineering+student+interested+in+robotics!)](https://git.io/typing-svg)
 
 
-👋 Howdy! I'm Ian Wilhite, a mechanical engineering undergrad at Texas A&M, on an quest to uncover the wonders of mechanical design and robotics controls. My adventures have brought me to many incredible places, from research under some of the brightest minds I've met, to building pneumatic robots for 'life cycle trampoline testing' -- and yes I know exactly how funny that phrase is. I am incredibly passionate about projects where I have the opportunity to learn something new, and as I'm now discovering, there seems to be an abundance of those opportunities. If you like some of my work or just want to learn more, feel free to shoot me a message!
+👋 Howdy! I'm Ian Wilhite, a Robotics and Controls Engineering student at Texas A&M! I'm incredibly grateful to have the privelige to do as much as I have for various organizations: from research under some of the brightest minds I've met in the [Human Empowering Robotics and Controls Lab (HERC)](https://herc.engr.tamu.edu), to building pneumatic robots for 'life cycle trampoline testing' with [360 Testing Co.](https://360producttesting.com) -- and yes I know exactly how funny that phrase is. If you like some of my work or just want to learn more, feel free to shoot me an email!
+
+## 👨‍🏭 Activites:
+- ⚙️ Executive Secretary for the [American Society of Mechanical Engineers (ASME) at A&M](https://www.tamuasme.com)
+- 🐢 Project Lead for the [D.R.O.N. project with TURTLE!](github.com/turtle-robotics/DRON)
+- ⚗️ Lab Foreman for the [Texas A&M University Robotics Team and Leadership Experince, or commonly: TURTLE](https://turtle-robotics.github.io/Turtle-website-fall-2024/)
+- 🏠 Resident Advisor for [Appelt Hall](https://reslife.tamu.edu)
+
 <!--
 # 🌿 Outside of work:
 🍂 I love the outdoors, backpacking, and taking every chance I get to find my way back to the mountains. There's something incredibly humbling about standing at 12,000 ft and looking back on all the miles you had to cover to make it up. Somehow it makes every step feel like it mattered and every pound feel a little lighter. 
--->
+
 
 🚀 What Keeps Me Busy:
 - 🛠️ Designing and building (troubleshooting) robotics projects to create something new and learn a new skill
 - 🧠 Exploring the ever growing machine learning capabilities and their applications in engineering
 - 🤝 Meeting other people with the same drive towards their passions, and hearing their stories of success
 - 🎓 Mentoring others to find sucess, I may not know everything, but its incredibly satisfying to help a younger student achieve a goal
+-->
 
 ## 💻 Tech Stack
 
