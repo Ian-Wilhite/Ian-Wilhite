@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=600&height=35&lines=Welcome+to+my+portfolio!;I+am+a+Robitcs+engineering+student+interested+in+robotics!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=600&height=35&lines=Welcome+to+my+portfolio!;I+am+a+Robotcs+&+Controls+Engineer+interested+in+dynamic+systems!)](https://git.io/typing-svg)
 
 
 👋 Howdy! I'm Ian Wilhite, a Robotics and Controls Engineering student at Texas A&M! I'm incredibly grateful to have the privelige to do as much as I have for various organizations: from research under some of the brightest minds I've met in the [Human Empowering Robotics and Controls Lab (HERC)](https://herc.engr.tamu.edu), to building pneumatic robots for 'life cycle trampoline testing' with [360 Testing Co.](https://360producttesting.com) -- and yes I know exactly how funny that phrase is. If you like some of my work or just want to learn more, feel free to shoot me an email!
