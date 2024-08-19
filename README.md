@@ -10,6 +10,7 @@
 - 🐢 Project Lead for the [D.R.O.N. project with TURTLE!](github.com/turtle-robotics/DRON)
 - ⚗️ Lab Foreman for the [Texas A&M University Robotics Team and Leadership Experince, or commonly: TURTLE](https://turtle-robotics.github.io/Turtle-website-fall-2024/)
 - 🏠 Resident Advisor for [Appelt Hall](https://reslife.tamu.edu)
+- 🛩️ Personal Projects - I've always got one or two things I'm cooking up ([spoilers](github.com/roving-robotics))
 
 <!--
 # 🌿 Outside of work:
