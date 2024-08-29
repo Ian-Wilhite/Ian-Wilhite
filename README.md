@@ -9,7 +9,7 @@
 - ⚙️ Executive Secretary for the [American Society of Mechanical Engineers (ASME) at A&M](https://www.tamuasme.com)
 - 🐢 Project Lead for the [D.R.O.N. project with TURTLE!](https://github.com/turtle-robotics/DRON)
 - ⚗️ Lab Foreman for the [Texas A&M University Robotics Team and Leadership Experince, or commonly: TURTLE](https://turtle-robotics.github.io/Turtle-website-fall-2024/)
-- 🏠 Resident Advisor for [Appelt Hall](https://reslife.tamu.edu)
+- 🏠 Resident Advisor for [the Dept. of Reslife](https://reslife.tamu.edu)
 - 🛩️ Personal Projects - I've always got one or two things I'm cooking up ([spoilers](https://github.com/Roving-Robotics))
 
 <!--
