@@ -6,11 +6,9 @@
 👋 Howdy! I'm Ian Wilhite, a Robotics and Controls Engineering student at Texas A&M! I'm incredibly grateful to have the privelige to do as much as I have for various organizations: from research under some of the brightest minds I've met in the [Human Empowering Robotics and Controls Lab (HERC)](https://herc.engr.tamu.edu), to building pneumatic robots for 'life cycle trampoline testing' with [360 Testing Co.](https://360producttesting.com) -- and yes I know exactly how funny that phrase is. If you like some of my work or just want to learn more, feel free to shoot me an email!
 
 ## 👨‍🏭 Activites:
-- ⚙️ Executive Secretary for the [American Society of Mechanical Engineers (ASME) at A&M](https://www.tamuasme.com)
+- ⚙️ Presidentt of the [American Society of Mechanical Engineers (ASME) at A&M](https://www.tamuasme.com)
 - 🐢 Project Lead for the [D.R.O.N. project with TURTLE!](https://github.com/turtle-robotics/DRON)
-- ⚗️ Lab Foreman for the [Texas A&M University Robotics Team and Leadership Experince, or commonly: TURTLE](https://turtle-robotics.github.io/Turtle-website-fall-2024/)
-- 🏠 Resident Advisor for [the Dept. of Reslife](https://reslife.tamu.edu)
-- 🛩️ Personal Projects - I've always got one or two things I'm cooking up ([spoilers](https://github.com/Roving-Robotics))
+- ⚗️ Internal Vice President of [TURTLE Robotics](https://www.turtlerobotics.org/))
 
 <!--
 # 🌿 Outside of work:
