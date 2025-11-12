@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=600&height=35&lines=Welcome+to+my+GitHub!;I+am+a+Robotcs+Engineer+interested+in+dynamic+systems!)](https://git.io/typing-svg)
 
 
-👋 Howdy! I'm Ian Wilhite, a Robotics and Controls Engineering student at Texas A&M! I'm incredibly grateful to have the privelige to do as much as I have for various organizations: from research under some of the brightest minds I've met in the [Human Empowering Robotics and Controls Lab (HERC)](https://herc.engr.tamu.edu), to building pneumatic robots for 'life cycle trampoline testing' with [360 Testing Co.](https://360producttesting.com) -- and yes I know exactly how funny that phrase is. If you like some of my work or just want to learn more, feel free to shoot me an email!
+👋 Howdy! I'm Ian Wilhite, a Robotics and Controls Engineering student at Texas A&M! You can find what I am currently doing on my [Linkedin](https://www.linkedin.com/in/ian-wilhite/) or [instagram](https://www.instagram.com/en._.ig/). 
 
 ## 👨‍🏭 Activites:
 - ⚙️ Presidentt of the [American Society of Mechanical Engineers (ASME) at A&M](https://www.tamuasme.com)
