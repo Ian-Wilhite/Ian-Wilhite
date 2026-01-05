@@ -1,9 +1,9 @@
 ## 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=600&height=35&lines=Welcome+to+my+GitHub!;I+am+a+Robotcs+Engineer+interested+in+dynamic+systems!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=600&height=35&lines=Welcome+to+my+GitHub!;I+build+robots!+(and+drones))](https://git.io/typing-svg)
 
 
-👋 Howdy! I'm Ian Wilhite, a Robotics and Controls Engineering student at Texas A&M! You can find what I am currently doing on my [Linkedin](https://www.linkedin.com/in/ian-wilhite/) or [instagram](https://www.instagram.com/en._.ig/). 
+👋 Howdy! I'm Ian Wilhite, a Robotics and Controls Engineering student at Texas A&M! You can find what I am currently doing on my [Personal Website](https://ian-wilhite.github.io/), [Linkedin](https://www.linkedin.com/in/ian-wilhite/) or [Instagram](https://www.instagram.com/en._.ig/). 
 
 ## 👨‍🏭 Activites:
 - ⚙️ Presidentt of the [American Society of Mechanical Engineers (ASME) at A&M](https://www.tamuasme.com)
@@ -21,8 +21,3 @@
 - 🤝 Meeting other people with the same drive towards their passions, and hearing their stories of success
 - 🎓 Mentoring others to find sucess, I may not know everything, but its incredibly satisfying to help a younger student achieve a goal
 -->
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-wilhite&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=en-i-g&icon=7&color=3)](https://visitcount.itsvg.in)
