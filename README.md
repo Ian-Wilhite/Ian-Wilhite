@@ -6,7 +6,7 @@
 👋 Howdy! I'm Ian Wilhite, a Robotics and Controls Engineering student at Texas A&M! You can find what I am currently doing on my [Personal Website](https://ian-wilhite.github.io/), [Linkedin](https://www.linkedin.com/in/ian-wilhite/) or [Instagram](https://www.instagram.com/en._.ig/). 
 
 ## 👨‍🏭 Activites:
-- ⚙️ Presidentt of the [American Society of Mechanical Engineers (ASME) at A&M](https://www.tamuasme.com)
+- ⚙️ President of the [American Society of Mechanical Engineers (ASME) at A&M](https://www.tamuasme.com)
 - 🐢 Project Lead for the [D.R.O.N. project with TURTLE!](https://github.com/turtle-robotics/DRON)
 - ⚗️ Internal Vice President of [TURTLE Robotics](https://www.turtlerobotics.org/))
 
