@@ -8,7 +8,7 @@
 ## 👨‍🏭 Activites:
 - ⚙️ President of the [American Society of Mechanical Engineers (ASME) at A&M](https://www.tamuasme.com)
 - 🐢 Project Lead for the [D.R.O.N. project with TURTLE!](https://github.com/turtle-robotics/DRON)
-- ⚗️ Internal Vice President of [TURTLE Robotics](https://www.turtlerobotics.org/))
+- ⚗️ Internal Vice President of [TURTLE Robotics](https://www.turtlerobotics.org/)
 
 <!--
 # 🌿 Outside of work:
