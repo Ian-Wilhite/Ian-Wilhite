@@ -15,7 +15,7 @@
  - My portfolio is live on [RovingRobotics.com](https://rovingrobotics.com/)
  - I've got some of my CAD up on [Printables](https://www.printables.com/@IanWilhite_3080790/models)
  - My [Linkedin is p cool](https://www.linkedin.com/in/ian-wilhite/) :)
- - On Instagram theres my [Personal Page](https://www.instagram.com/en._.ig/) and my [Roving Robotics](https://www.instagram.com/en._.ig/) (that I need to post on more :/ )
+ - On Instagram theres my [Personal Page](https://www.instagram.com/en._.ig/) and my [Roving Robotics](https://www.instagram.com/roving_robotics/) (that I need to post on more :/ )
 <!--
 # 🌿 Outside of work:
 🍂 I love the outdoors, backpacking, and taking every chance I get to find my way back to the mountains. There's something incredibly humbling about standing at 12,000 ft and looking back on all the miles you had to cover to make it up. Somehow it makes every step feel like it mattered and every pound feel a little lighter. 
